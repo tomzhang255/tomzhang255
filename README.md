@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+* Education: St. Lawrence University - B.S. in Stat & CS
+* Interests: Statistical modeling, big data analysis, web app & API development
 
 <!--
 **tomzhang255/tomzhang255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
