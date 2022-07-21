@@ -3,7 +3,7 @@
 * Education:
   - Harvard University '23 - MS in Data Science
   - St. Lawrence University '22 - BS in Stat & CS
-* Interests: Statistical modeling, big data analysis, web app & API development
+* Interests: Statistical modeling, machine learning, big data analysis, web app & API development
 
 <!--
 **tomzhang255/tomzhang255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
