@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-* Education: St. Lawrence University - B.S. in Stat & CS
+* Education:
+  - Harvard University '23 - MS in Data Science
+  - St. Lawrence University '22 - BS in Stat & CS
 * Interests: Statistical modeling, big data analysis, web app & API development
 
 <!--
