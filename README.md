@@ -1,9 +1,14 @@
-### Hello there 👋
+### Hello there, it's Tom 👋
 
 * Education:
   - Harvard University '23 - MS in Data Science
   - St. Lawrence University '22 - BS in Stat & CS
-* Interests: Statistical modeling, machine learning, big data analysis, web app & API development
+* Interests:
+  - Statistical modeling & machine learning
+  - Data wrangling & visualization
+  - Data pipeline implementation
+  - Database design & management
+  - Web app & API development
 
 <!--
 **tomzhang255/tomzhang255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
